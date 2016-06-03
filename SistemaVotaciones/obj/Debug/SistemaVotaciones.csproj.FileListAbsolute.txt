@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2015\Projects\SistemaVotaciones\SistemaVotaciones\bin\Debug\SistemaVotaciones.exe.config
